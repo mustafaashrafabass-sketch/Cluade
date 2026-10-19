@@ -1,0 +1,40 @@
+[
+  {
+    "id": "cat-test-category-alpha",
+    "slug": "test-category-alpha",
+    "name": {
+      "en": "Test Category Alpha",
+      "ar": "فئة اختبار ألفا"
+    },
+    "order": 0
+  },
+  {
+    "id": "cat-test-category-alpha-test-sub-two",
+    "slug": "test-sub-two",
+    "name": {
+      "en": "Test Sub Two",
+      "ar": "فرع اختبار اثنان"
+    },
+    "order": 1,
+    "parentId": "cat-test-category-alpha"
+  },
+  {
+    "id": "cat-test-category-beta",
+    "slug": "test-category-beta",
+    "name": {
+      "en": "Test Category Beta",
+      "ar": "فئة اختبار بيتا"
+    },
+    "order": 2
+  },
+  {
+    "id": "cat-test-category-alpha-test-sub-one",
+    "slug": "test-sub-one",
+    "name": {
+      "en": "Test Sub One",
+      "ar": "فرع اختبار واحد"
+    },
+    "order": 3,
+    "parentId": "cat-test-category-alpha"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "from": "/product/test-fixture-product-001",
+    "to": "/en/products/test-fixture-product-001"
+  },
+  {
+    "from": "/product/test-fixture-product-002",
+    "to": "/en/products/test-fixture-product-002"
+  },
+  {
+    "from": "/product/test-fixture-product-003",
+    "to": "/en/products/test-fixture-product-003"
+  },
+  {
+    "from": "/product/test-fixture-product-004",
+    "to": "/en/products/test-fixture-product-004"
+  },
+  {
+    "from": "/product/test-fixture-product-005",
+    "to": "/en/products/test-fixture-product-005"
+  },
+  {
+    "from": "/product/test-fixture-product-006",
+    "to": "/en/products/test-fixture-product-006"
+  },
+  {
+    "from": "/product/test-fixture-product-007",
+    "to": "/en/products/test-fixture-product-007"
+  },
+  {
+    "from": "/product/test-fixture-product-008",
+    "to": "/en/products/test-fixture-product-008"
+  },
+  {
+    "from": "/product/test-fixture-product-009",
+    "to": "/en/products/test-fixture-product-009"
+  },
+  {
+    "from": "/product/test-fixture-product-010",
+    "to": "/en/products/test-fixture-product-010"
+  },
+  {
+    "from": "/product/test-fixture-product-011",
+    "to": "/en/products/test-fixture-product-011"
+  },
+  {
+    "from": "/product/test-fixture-product-012",
+    "to": "/en/products/test-fixture-product-012"
+  },
+  {
+    "from": "/product/test-fixture-product-013",
+    "to": "/en/products/test-fixture-product-013"
+  },
+  {
+    "from": "/product/test-fixture-product-014",
+    "to": "/en/products/test-fixture-product-014"
+  },
+  {
+    "from": "/product/test-fixture-product-015",
+    "to": "/en/products/test-fixture-product-015"
+  },
+  {
+    "from": "/product/test-fixture-product-016",
+    "to": "/en/products/test-fixture-product-016"
+  },
+  {
+    "from": "/product/test-fixture-product-017",
+    "to": "/en/products/test-fixture-product-017"
+  },
+  {
+    "from": "/product/test-fixture-product-018",
+    "to": "/en/products/test-fixture-product-018"
+  },
+  {
+    "from": "/product/test-fixture-product-019",
+    "to": "/en/products/test-fixture-product-019"
+  },
+  {
+    "from": "/product/test-fixture-product-020",
+    "to": "/en/products/test-fixture-product-020"
+  },
+  {
+    "from": "/product/test-fixture-product-021",
+    "to": "/en/products/test-fixture-product-021"
+  },
+  {
+    "from": "/product/test-fixture-product-022",
+    "to": "/en/products/test-fixture-product-022"
+  },
+  {
+    "from": "/product/test-fixture-product-023",
+    "to": "/en/products/test-fixture-product-023"
+  },
+  {
+    "from": "/product/test-fixture-product-024",
+    "to": "/en/products/test-fixture-product-024"
+  },
+  {
+    "from": "/product/test-fixture-product-025",
+    "to": "/en/products/test-fixture-product-025"
+  },
+  {
+    "from": "/product/test-fixture-product-026",
+    "to": "/en/products/test-fixture-product-026"
+  },
+  {
+    "from": "/product/test-fixture-product-027",
+    "to": "/en/products/test-fixture-product-027"
+  },
+  {
+    "from": "/product/test-fixture-product-028",
+    "to": "/en/products/test-fixture-product-028"
+  },
+  {
+    "from": "/product/test-fixture-product-029",
+    "to": "/en/products/test-fixture-product-029"
+  },
+  {
+    "from": "/product/test-fixture-product-030",
+    "to": "/en/products/test-fixture-product-030"
+  },
+  {
+    "from": "/product/old-duplicate-url",
+    "to": "/en/products/test-fixture-product-001"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "source": "file",
+  "baseUrl": "https://legacy.example.test",
+  "importedAt": "2026-10-19T10:38:09.506Z",
+  "totals": {
+    "products": 31,
+    "categories": 4,
+    "redirects": 31
+  },
+  "duplicatesRemoved": [
+    {
+      "sourceId": "fx-dup",
+      "keptAs": "file-fx001",
+      "reason": "same SKU and name"
+    }
+  ],
+  "skuConflicts": [
+    {
+      "sku": "fix-0002",
+      "productIds": [
+        "file-fx002",
+        "file-fx-conflict"
+      ]
+    }
+  ],
+  "missing": {
+    "images": [
+      "file-fx001",
+      "file-fx002",
+      "file-fx003",
+      "file-fx004",
+      "file-fx005",
+      "file-fx006",
+      "file-fx007",
+      "file-fx008",
+      "file-fx009",
+      "file-fx010",
+      "file-fx011",
+      "file-fx012",
+      "file-fx013",
+      "file-fx014",
+      "file-fx015",
+      "file-fx016",
+      "file-fx017",
+      "file-fx018",
+      "file-fx019",
+      "file-fx020",
+      "file-fx021",
+      "file-fx022",
+      "file-fx023",
+      "file-fx024",
+      "file-fx025",
+      "file-fx026",
+      "file-fx027",
+      "file-fx028",
+      "file-fx029",
+      "file-fx030",
+      "file-fx-conflict"
+    ],
+    "sku": [],
+    "category": [],
+    "description": [],
+    "brand": 0,
+    "price": 25,
+    "arabicName": 0,
+    "englishName": 0
+  },
+  "invalidPrices": [],
+  "failures": []
+}

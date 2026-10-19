@@ -63,7 +63,8 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
               <Link href={href(locale, "/quote")} className={buttonClass("outline-inverse", "lg")}>{t.hero.secondaryCta}</Link>
             </div>
             <form action={href(locale, "/products")} role="search" className="mt-8 max-w-xl">
-              <label className="relative block">
+              <div className="relative">
+                <label className="block">
                 <span className="sr-only">{t.search.label}</span>
                 <SearchIcon size={20} className="pointer-events-none absolute start-4 top-1/2 -translate-y-1/2 text-slate" />
                 <input
@@ -72,8 +73,9 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
                   placeholder={t.hero.searchHint}
                   className="h-14 w-full rounded-[var(--radius-md)] border-0 bg-white ps-12 pe-28 text-[16px] text-ink shadow-[var(--shadow-raised)] placeholder:text-slate focus:outline-none focus:ring-4 focus:ring-blue/40"
                 />
+                </label>
                 <button type="submit" className={buttonClass("primary", "md", "absolute end-1.5 top-1.5")}>{t.search.submit}</button>
-              </label>
+              </div>
             </form>
             <ul className="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm text-white/60">
               {t.hero.pillars.map((p, i) => {

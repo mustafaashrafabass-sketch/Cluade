@@ -2,7 +2,7 @@ import { createHmac, randomBytes } from "node:crypto";
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import type { ValidatedFile } from "./files";
-import { log } from "../log";
+import { log } from "../log.ts";
 
 /**
  * Lead destinations. A submission is reported as successful only when at least

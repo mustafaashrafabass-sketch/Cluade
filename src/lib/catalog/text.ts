@@ -30,6 +30,8 @@ export function normalizeForSearch(input: string): string {
     .replace(/ؤ/g, "و")
     .replace(/ئ/g, "ي")
     .replace(/[٠-٩]/g, (d) => String(d.charCodeAt(0) - 0x0660))
+    // Dimension signs: "4×16" and "4x16" must match (cable sizes, enclosures).
+    .replace(/(\d)\s*[×✕*]\s*(?=\d)/g, "$1x")
     .replace(/[^\p{L}\p{N}]+/gu, " ")
     .trim();
 }

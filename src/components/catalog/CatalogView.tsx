@@ -138,7 +138,8 @@ export async function CatalogView({
       ) : null}
       <AutoSubmitForm key={formKey} action={basePath} className="group/form">
         <div className="flex flex-col gap-3 border-b border-line pb-5 sm:flex-row sm:items-center">
-          <label className="relative block flex-1">
+          <div className="relative flex-1">
+            <label className="block">
             <span className="sr-only">{t.search.label}</span>
             <SearchIcon size={18} className="pointer-events-none absolute start-3 top-1/2 -translate-y-1/2 text-slate" />
             <input
@@ -149,8 +150,9 @@ export async function CatalogView({
               maxLength={120}
               className="h-11 w-full rounded-[var(--radius)] border border-line-strong bg-white ps-10 pe-24 text-[16px] placeholder:text-slate focus:border-blue focus:outline-none focus:ring-2 focus:ring-blue/20 sm:text-sm"
             />
+            </label>
             <button type="submit" className={buttonClass("primary", "sm", "absolute end-1 top-1")}>{t.search.submit}</button>
-          </label>
+          </div>
           <label className="flex items-center gap-2 text-sm">
             <span className="whitespace-nowrap text-slate">{t.catalog.sort}</span>
             <span className="relative">

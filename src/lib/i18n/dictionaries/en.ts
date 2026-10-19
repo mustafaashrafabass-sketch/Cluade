@@ -232,7 +232,7 @@ const en = {
     requirementsPlaceholder: "List products, quantities and any specifications, or describe what you need.",
     optional: "optional",
     required: "required",
-    consent: "I agree that Almanfz may use these details to respond to my request, as described in the privacy policy.",
+    consent: "I agree that Almanfz may use these details to respond to my request, as described in the",
     submitQuote: "Submit quotation request",
     submitBoq: "Submit BOQ",
     submitContact: "Send message",

@@ -57,9 +57,11 @@ export function Header({ locale, t }: { locale: Locale; t: Dictionary }) {
               <div className="hidden sm:block">{switcher}</div>
             </Suspense>
             <QuoteBadge href={quoteHref} label={t.nav.quoteList} countLabel={t.a11y.quoteListWithCount} />
-            <Link href={quoteHref} className={buttonClass("primary", "md", "ms-1 hidden lg:inline-flex")}>
-              {t.nav.requestQuote}
-            </Link>
+            <span className="ms-1 hidden lg:block">
+              <Link href={quoteHref} className={buttonClass("primary", "md")}>
+                {t.nav.requestQuote}
+              </Link>
+            </span>
             <MobileNav
               dir={dirOf(locale)}
               links={[...links, { href: quoteHref, label: t.nav.quoteList }, { href: href(locale, "/rfq"), label: t.nav.submitBoq }]}

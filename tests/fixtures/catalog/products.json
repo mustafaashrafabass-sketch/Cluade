@@ -1,0 +1,1475 @@
+[
+  {
+    "id": "file-fx001",
+    "slug": "test-fixture-product-001",
+    "name": {
+      "en": "TEST Fixture Product 001",
+      "ar": "منتج اختبار 001"
+    },
+    "sku": "FIX-0001",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 1 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 1 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "featured": true,
+    "source": {
+      "system": "file",
+      "id": "fx001",
+      "url": "https://legacy.example.test/product/test-fixture-product-001/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx002",
+    "slug": "test-fixture-product-002",
+    "name": {
+      "en": "TEST Fixture Product 002",
+      "ar": "منتج اختبار 002"
+    },
+    "sku": "FIX-0002",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 2 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 2 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "featured": true,
+    "source": {
+      "system": "file",
+      "id": "fx002",
+      "url": "https://legacy.example.test/product/test-fixture-product-002/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx003",
+    "slug": "test-fixture-product-003",
+    "name": {
+      "en": "TEST Fixture Product 003",
+      "ar": "منتج اختبار 003"
+    },
+    "sku": "FIX-0003",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 3 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 3 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "featured": true,
+    "source": {
+      "system": "file",
+      "id": "fx003",
+      "url": "https://legacy.example.test/product/test-fixture-product-003/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx004",
+    "slug": "test-fixture-product-004",
+    "name": {
+      "en": "TEST Fixture Product 004",
+      "ar": "منتج اختبار 004"
+    },
+    "sku": "FIX-0004",
+    "partNumber": "FX-PN-0004",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 4 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 4 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "featured": true,
+    "source": {
+      "system": "file",
+      "id": "fx004",
+      "url": "https://legacy.example.test/product/test-fixture-product-004/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx005",
+    "slug": "test-fixture-product-005",
+    "name": {
+      "en": "TEST Fixture Product 005",
+      "ar": "منتج اختبار 005"
+    },
+    "sku": "FIX-0005",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 5 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 5 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 52.5,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx005",
+      "url": "https://legacy.example.test/product/test-fixture-product-005/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx006",
+    "slug": "test-fixture-product-006",
+    "name": {
+      "en": "TEST Fixture Product 006",
+      "ar": "منتج اختبار 006"
+    },
+    "sku": "FIX-0006",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 6 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 6 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx006",
+      "url": "https://legacy.example.test/product/test-fixture-product-006/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx007",
+    "slug": "test-fixture-product-007",
+    "name": {
+      "en": "TEST Fixture Product 007",
+      "ar": "منتج اختبار 007"
+    },
+    "sku": "FIX-0007",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 7 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 7 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx007",
+      "url": "https://legacy.example.test/product/test-fixture-product-007/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx008",
+    "slug": "test-fixture-product-008",
+    "name": {
+      "en": "TEST Fixture Product 008",
+      "ar": "منتج اختبار 008"
+    },
+    "sku": "FIX-0008",
+    "partNumber": "FX-PN-0008",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 8 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 8 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx008",
+      "url": "https://legacy.example.test/product/test-fixture-product-008/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx009",
+    "slug": "test-fixture-product-009",
+    "name": {
+      "en": "TEST Fixture Product 009",
+      "ar": "منتج اختبار 009"
+    },
+    "sku": "FIX-0009",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 9 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 9 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx009",
+      "url": "https://legacy.example.test/product/test-fixture-product-009/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx010",
+    "slug": "test-fixture-product-010",
+    "name": {
+      "en": "TEST Fixture Product 010",
+      "ar": "منتج اختبار 010"
+    },
+    "sku": "FIX-0010",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 10 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 10 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 105,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx010",
+      "url": "https://legacy.example.test/product/test-fixture-product-010/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx011",
+    "slug": "test-fixture-product-011",
+    "name": {
+      "en": "TEST Fixture Product 011",
+      "ar": "منتج اختبار 011"
+    },
+    "sku": "FIX-0011",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 11 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 11 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx011",
+      "url": "https://legacy.example.test/product/test-fixture-product-011/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx012",
+    "slug": "test-fixture-product-012",
+    "name": {
+      "en": "TEST Fixture Product 012",
+      "ar": "منتج اختبار 012"
+    },
+    "sku": "FIX-0012",
+    "partNumber": "FX-PN-0012",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 12 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 12 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx012",
+      "url": "https://legacy.example.test/product/test-fixture-product-012/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx013",
+    "slug": "test-fixture-product-013",
+    "name": {
+      "en": "TEST Fixture Product 013",
+      "ar": "منتج اختبار 013"
+    },
+    "sku": "FIX-0013",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 13 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 13 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx013",
+      "url": "https://legacy.example.test/product/test-fixture-product-013/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx014",
+    "slug": "test-fixture-product-014",
+    "name": {
+      "en": "TEST Fixture Product 014",
+      "ar": "منتج اختبار 014"
+    },
+    "sku": "FIX-0014",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 14 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 14 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx014",
+      "url": "https://legacy.example.test/product/test-fixture-product-014/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx015",
+    "slug": "test-fixture-product-015",
+    "name": {
+      "en": "TEST Fixture Product 015",
+      "ar": "منتج اختبار 015"
+    },
+    "sku": "FIX-0015",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 15 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 15 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 157.5,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx015",
+      "url": "https://legacy.example.test/product/test-fixture-product-015/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx016",
+    "slug": "test-fixture-product-016",
+    "name": {
+      "en": "TEST Fixture Product 016",
+      "ar": "منتج اختبار 016"
+    },
+    "sku": "FIX-0016",
+    "partNumber": "FX-PN-0016",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 16 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 16 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx016",
+      "url": "https://legacy.example.test/product/test-fixture-product-016/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx017",
+    "slug": "test-fixture-product-017",
+    "name": {
+      "en": "TEST Fixture Product 017",
+      "ar": "منتج اختبار 017"
+    },
+    "sku": "FIX-0017",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 17 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 17 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx017",
+      "url": "https://legacy.example.test/product/test-fixture-product-017/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx018",
+    "slug": "test-fixture-product-018",
+    "name": {
+      "en": "TEST Fixture Product 018",
+      "ar": "منتج اختبار 018"
+    },
+    "sku": "FIX-0018",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 18 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 18 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx018",
+      "url": "https://legacy.example.test/product/test-fixture-product-018/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx019",
+    "slug": "test-fixture-product-019",
+    "name": {
+      "en": "TEST Fixture Product 019",
+      "ar": "منتج اختبار 019"
+    },
+    "sku": "FIX-0019",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 19 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 19 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx019",
+      "url": "https://legacy.example.test/product/test-fixture-product-019/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx020",
+    "slug": "test-fixture-product-020",
+    "name": {
+      "en": "TEST Fixture Product 020",
+      "ar": "منتج اختبار 020"
+    },
+    "sku": "FIX-0020",
+    "partNumber": "FX-PN-0020",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 20 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 20 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 210,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx020",
+      "url": "https://legacy.example.test/product/test-fixture-product-020/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx021",
+    "slug": "test-fixture-product-021",
+    "name": {
+      "en": "TEST Fixture Product 021",
+      "ar": "منتج اختبار 021"
+    },
+    "sku": "FIX-0021",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 21 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 21 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx021",
+      "url": "https://legacy.example.test/product/test-fixture-product-021/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx022",
+    "slug": "test-fixture-product-022",
+    "name": {
+      "en": "TEST Fixture Product 022",
+      "ar": "منتج اختبار 022"
+    },
+    "sku": "FIX-0022",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 22 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 22 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx022",
+      "url": "https://legacy.example.test/product/test-fixture-product-022/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx023",
+    "slug": "test-fixture-product-023",
+    "name": {
+      "en": "TEST Fixture Product 023",
+      "ar": "منتج اختبار 023"
+    },
+    "sku": "FIX-0023",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 23 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 23 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx023",
+      "url": "https://legacy.example.test/product/test-fixture-product-023/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx024",
+    "slug": "test-fixture-product-024",
+    "name": {
+      "en": "TEST Fixture Product 024",
+      "ar": "منتج اختبار 024"
+    },
+    "sku": "FIX-0024",
+    "partNumber": "FX-PN-0024",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 24 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 24 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx024",
+      "url": "https://legacy.example.test/product/test-fixture-product-024/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx025",
+    "slug": "test-fixture-product-025",
+    "name": {
+      "en": "TEST Fixture Product 025",
+      "ar": "منتج اختبار 025"
+    },
+    "sku": "FIX-0025",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 25 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 25 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 262.5,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx025",
+      "url": "https://legacy.example.test/product/test-fixture-product-025/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx026",
+    "slug": "test-fixture-product-026",
+    "name": {
+      "en": "TEST Fixture Product 026",
+      "ar": "منتج اختبار 026"
+    },
+    "sku": "FIX-0026",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 26 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 26 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx026",
+      "url": "https://legacy.example.test/product/test-fixture-product-026/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx027",
+    "slug": "test-fixture-product-027",
+    "name": {
+      "en": "TEST Fixture Product 027",
+      "ar": "منتج اختبار 027"
+    },
+    "sku": "FIX-0027",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 27 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 27 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx027",
+      "url": "https://legacy.example.test/product/test-fixture-product-027/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx028",
+    "slug": "test-fixture-product-028",
+    "name": {
+      "en": "TEST Fixture Product 028",
+      "ar": "منتج اختبار 028"
+    },
+    "sku": "FIX-0028",
+    "partNumber": "FX-PN-0028",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-two"
+    ],
+    "description": {
+      "en": "Synthetic test record 28 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 28 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "2"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx028",
+      "url": "https://legacy.example.test/product/test-fixture-product-028/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx029",
+    "slug": "test-fixture-product-029",
+    "name": {
+      "en": "TEST Fixture Product 029",
+      "ar": "منتج اختبار 029"
+    },
+    "sku": "FIX-0029",
+    "brand": "Fixture Brand A",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 29 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 29 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "10A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "source": {
+      "system": "file",
+      "id": "fx029",
+      "url": "https://legacy.example.test/product/test-fixture-product-029/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx030",
+    "slug": "test-fixture-product-030",
+    "name": {
+      "en": "TEST Fixture Product 030",
+      "ar": "منتج اختبار 030"
+    },
+    "sku": "FIX-0030",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-alpha-test-sub-one"
+    ],
+    "description": {
+      "en": "Synthetic test record 30 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 30 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "price": {
+      "amount": 315,
+      "currency": "SAR",
+      "includesVat": true,
+      "observedAt": "2026-10-19T10:38:09.506Z"
+    },
+    "source": {
+      "system": "file",
+      "id": "fx030",
+      "url": "https://legacy.example.test/product/test-fixture-product-030/",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  },
+  {
+    "id": "file-fx-conflict",
+    "slug": "test-fixture-conflict",
+    "name": {
+      "en": "TEST Fixture Conflicting Name",
+      "ar": "منتج اختبار 002"
+    },
+    "sku": "FIX-0002",
+    "brand": "Fixture Brand B",
+    "categoryIds": [
+      "cat-test-category-beta"
+    ],
+    "description": {
+      "en": "Synthetic test record 2 used only by automated tests.\n\n• Not a real product\n• Do not publish",
+      "ar": "سجل اختبار اصطناعي رقم 2 للاختبارات الآلية فقط."
+    },
+    "images": [],
+    "attributes": [
+      {
+        "key": "test-rating",
+        "label": {
+          "en": "Test Rating",
+          "ar": "تصنيف الاختبار"
+        },
+        "values": [
+          "16A"
+        ]
+      },
+      {
+        "key": "test-poles",
+        "label": {
+          "en": "Test Poles",
+          "ar": "أقطاب الاختبار"
+        },
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "featured": true,
+    "source": {
+      "system": "file",
+      "id": "fx-conflict",
+      "importedAt": "2026-10-19T10:38:09.506Z"
+    }
+  }
+]

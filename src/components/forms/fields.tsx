@@ -188,7 +188,7 @@ export function ConsentField({ label, error, privacyHref, privacyLabel }: { labe
 /** Hidden from people and assistive technology; bots that fill it are rejected server-side. */
 export function Honeypot() {
   return (
-    <div aria-hidden className="absolute -left-[9999px] h-px w-px overflow-hidden">
+    <div aria-hidden className="sr-only">
       <label>
         Website
         <input type="text" name="website" tabIndex={-1} autoComplete="off" defaultValue="" />
