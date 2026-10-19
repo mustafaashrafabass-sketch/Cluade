@@ -1,0 +1,20 @@
+{
+  "$comment": "Verified company details only. Every null field is hidden on the website. Fill these from official company records (see docs/AUDIT.md > 'Data needed').",
+  "legalName": { "en": null, "ar": null },
+  "commercialRegistration": null,
+  "vatNumber": null,
+  "phone": null,
+  "email": null,
+  "salesEmail": null,
+  "whatsapp": null,
+  "address": { "en": null, "ar": null },
+  "city": { "en": "Riyadh", "ar": "الرياض" },
+  "workingHours": { "en": null, "ar": null },
+  "mapEmbedUrl": null,
+  "mapLinkUrl": null,
+  "social": {
+    "linkedin": null,
+    "x": null,
+    "instagram": null
+  }
+}
